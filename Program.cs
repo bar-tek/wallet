@@ -7,7 +7,7 @@
             IMenu menu = new Menu(new Manager());
             do 
                 menu.Show(); 
-            while(true);
+            while(true); // ;)
         }
     }
 }
